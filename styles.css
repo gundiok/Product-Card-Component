@@ -99,7 +99,7 @@ button:hover {
 
 @media (max-width: 640px) {
   img {
-    content: url(images/image-product-mobile.jpg);
+    content: url(image-product-mobile.jpg);
     object-fit: cover;
     width: 100%;
     height: auto;
